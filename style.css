@@ -19,7 +19,7 @@ body {
 }
 
 .header {
-    
+
     display: flex;
     height: 10%;
     box-sizing: border-box;
@@ -30,7 +30,7 @@ body {
     width: 10%;
     text-align: center;
 
-  
+
 }
 
 .header1 p {
@@ -39,8 +39,8 @@ body {
     text-align: center;
     font-size: 30px;
 }
+
 .header2 {
-    
     width: 80%;
     box-sizing: border-box;
     height: 100%;
@@ -53,7 +53,7 @@ body {
     padding-left: 10px;
     font-size: 16px;
     word-wrap: break-word;
-    
+
 }
 
 .header2 span {
@@ -61,10 +61,10 @@ body {
     font-style: italic;
     color: gray
 }
+
 .header3 {
-    
     width: 10%;
-    
+
 }
 
 .header3 p {
@@ -75,11 +75,10 @@ body {
 }
 
 .body {
-    
     height: auto;
     margin: 0;
-    
-    
+
+
 
 }
 
@@ -90,12 +89,10 @@ img {
 }
 
 .footer {
-    
     height: 30%;
 }
 
 .opciones {
-   
     display: flex;
     height: 30%;
     margin: 0;
@@ -105,7 +102,6 @@ img {
 
 
 .opciones1 {
-    
     width: 90%;
 }
 
@@ -114,15 +110,15 @@ img {
     margin-top: 9px;
     margin-left: 10px;
     font-size: 30px;
-    
+
 }
 
 .opciones2 {
-    
+
     width: 10%;
 }
 
-.opciones2 p{
+.opciones2 p {
     margin: 0;
     margin-top: 9px;
     text-align: center;
@@ -130,7 +126,6 @@ img {
 }
 
 .like {
-    
     height: 15%;
 }
 
@@ -139,11 +134,10 @@ img {
     margin: 0;
     padding-top: 10px;
     padding-left: 10px;
-    
+
 }
 
 .comentario {
-    
     height: auto;
     margin: 0;
     padding-left: 10px;
@@ -153,8 +147,3 @@ img {
     margin: 0;
     padding-top: 15px;
 }
-
-
-
-
-
